@@ -1,0 +1,17 @@
+{
+    "name": "fadhlan/uts-1",
+    "description": "UTS Permrograman Berbasis Web Lanjutan",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fadhlan",
+            "email": "fadhlanhussaini@gmail.com"
+        }
+    ],
+    "require": {}
+}
